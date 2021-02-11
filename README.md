@@ -1,4 +1,5 @@
 ## About Application
+I code this application for demonstration of how to integrate PayPal REST API payment with Laravel. The main packages are "league/omnipay" and "omnipay/paypal". Current fully tested with Laravel 7.0.
 
 ## Installation and Configuration
 1. Clone this repository.
